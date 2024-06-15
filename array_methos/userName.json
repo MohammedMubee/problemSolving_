@@ -1,0 +1,28 @@
+[{
+    "username":"Mohammed",
+    "age":21,
+    "skill":[
+        "react",
+        "js",
+        "node"
+    ]
+},
+{
+    "username":"jeba",
+    "age":22,
+    "skill":[
+        "html",
+        "css"
+    ]
+
+},
+{
+    "username":"mohan",
+    "age":24,
+    "skill":[
+        "gaming",
+        "HR",
+        "Team Player"
+    ]
+}
+]

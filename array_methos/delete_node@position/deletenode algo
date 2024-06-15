@@ -1,0 +1,10 @@
+step1: cheack the head empty are not if empty means return null
+step2: crete a variable for to store the head nodetodelete
+step3: check the position is equal 0 means return the nodetodelete.next in head and return the ead
+step4: create variable for count the position initiaze with 0
+step5: create variable for previoust node
+step6: traverse the nodetodelete using while loop check the position is equal to count
+means prev.next = nodetodelete.next
+return head
+step7: prev is store the nodetodelete and nodetodelete is store the nodetodelete.next count++
+return the null
